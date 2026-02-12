@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.domain\\vehicleinventory.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.domain\\vehicleinventory.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEA506D3-3C39-4384-A227-DB35E772258C}|..\\VehicleInventory.Infrastructure\\VehicleInventory.Infrastructure.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,6 +33,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:31:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:26:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Infrastructure\\Class1.cs",
@@ -32,12 +66,11 @@
               "RelativeToolTip": "..\\VehicleInventory.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T21:38:52.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T21:38:52.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Class1.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\Class1.cs",
@@ -49,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Class1.cs",
