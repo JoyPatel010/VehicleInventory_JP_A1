@@ -16,19 +16,18 @@ namespace VehicleInventory.Domain.Entities
         public string VehicleType { get; private set; }
         public VehicleStatus Status { get; private set; }
 
-        // Required for EF Core
         private Vehicle() { }
 
         public Vehicle(string vehicleCode, string locationId, string vehicleType)
         {
             if (string.IsNullOrWhiteSpace(vehicleCode))
-                throw new ArgumentException("Vehicle code is required.");
+                throw new ArgumentException("Vehicle code is Mandatory.");
 
             if (string.IsNullOrWhiteSpace(locationId))
-                throw new ArgumentException("Location is required.");
+                throw new ArgumentException("Location is Mandatory.");
 
             if (string.IsNullOrWhiteSpace(vehicleType))
-                throw new ArgumentException("Vehicle type is required.");
+                throw new ArgumentException("Vehicle type is Mandatory.");
 
             Id = Guid.NewGuid();
             VehicleCode = vehicleCode;
@@ -36,6 +35,8 @@ namespace VehicleInventory.Domain.Entities
             VehicleType = vehicleType;
             Status = VehicleStatus.Available;
         }
+
+
 
         public void MarkRented()
         {
@@ -51,6 +52,7 @@ namespace VehicleInventory.Domain.Entities
             Status = VehicleStatus.Rented;
         }
 
+
         public void MarkReserved()
         {
             if (Status == VehicleStatus.Rented)
@@ -62,6 +64,7 @@ namespace VehicleInventory.Domain.Entities
             Status = VehicleStatus.Reserved;
         }
 
+
         public void MarkServiced()
         {
             if (Status == VehicleStatus.Rented)
@@ -69,6 +72,7 @@ namespace VehicleInventory.Domain.Entities
 
             Status = VehicleStatus.UnderService;
         }
+
 
         public void MarkAvailable()
         {

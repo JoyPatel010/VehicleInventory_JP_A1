@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.domain\\vehicleinventory.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\vehicleinventory.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +38,7 @@
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "RelativeToolTip": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T23:31:19.844Z",
               "EditorCaption": ""
@@ -53,8 +53,7 @@
               "RelativeToolTip": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T23:26:52.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T23:26:52.44Z"
             },
             {
               "$type": "Document",
