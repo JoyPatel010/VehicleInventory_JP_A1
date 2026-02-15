@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DTOs\CreateVehicleDto.cs" />
+    <Compile Include="DTOs\UpdateVehicleStatusDto.cs" />
     <Compile Include="DTOs\VehicleDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
