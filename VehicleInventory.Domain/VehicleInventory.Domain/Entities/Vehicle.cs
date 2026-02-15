@@ -21,13 +21,13 @@ namespace VehicleInventory.Domain.Entities
         public Vehicle(string vehicleCode, string locationId, string vehicleType)
         {
             if (string.IsNullOrWhiteSpace(vehicleCode))
-                throw new ArgumentException("Vehicle code is Mandatory.");
+                throw new ArgumentException("Vehicle code is required.");
 
             if (string.IsNullOrWhiteSpace(locationId))
-                throw new ArgumentException("Location is Mandatory.");
+                throw new ArgumentException("Location is required.");
 
             if (string.IsNullOrWhiteSpace(vehicleType))
-                throw new ArgumentException("Vehicle type is Mandatory.");
+                throw new ArgumentException("Vehicle type is required.");
 
             Id = Guid.NewGuid();
             VehicleCode = vehicleCode;

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5D1A1D2-E1A0-451B-B4DF-805B4364CF40}|..\\VehicleInventory.Application\\VehicleInventory.Application.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.application\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.domain\\vehicleinventory.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F8DFBEE-531F-4C63-BFE4-6F46C7CA9B6D}|VehicleInventory.Domain\\VehicleInventory.Domain.csproj|solutionrelative:vehicleinventory.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,19 +36,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\DTOs\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\DTOs\\CreateVehicleDto.cs",
+              "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\DTOs\\CreateVehicleDto.cs",
+              "RelativeToolTip": "..\\VehicleInventory.Application\\DTOs\\CreateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T23:34:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "RelativeToolTip": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwB0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T23:31:19.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DomainException.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
@@ -53,11 +69,12 @@
               "RelativeToolTip": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T23:26:52.44Z"
+              "WhenOpened": "2026-02-12T23:26:52.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Infrastructure\\Class1.cs",
@@ -65,11 +82,12 @@
               "RelativeToolTip": "..\\VehicleInventory.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T21:38:52.462Z"
+              "WhenOpened": "2026-02-11T21:38:52.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Class1.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\Class1.cs",
@@ -77,11 +95,12 @@
               "RelativeToolTip": "..\\VehicleInventory.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T21:38:24.082Z"
+              "WhenOpened": "2026-02-11T21:38:24.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Class1.cs",
@@ -89,7 +108,8 @@
               "RelativeToolTip": "VehicleInventory.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T21:37:21.821Z"
+              "WhenOpened": "2026-02-11T21:37:21.821Z",
+              "EditorCaption": ""
             }
           ]
         }
