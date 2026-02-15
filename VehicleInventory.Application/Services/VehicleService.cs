@@ -17,5 +17,14 @@ namespace VehicleInventory.Application.Services
         {
             _repository = repository;
         }
+
+        public async Task<Guid> CreateVehicleAsync(CreateVehicleDto dto)
+        {
+            var vehicle = new Vehicle(dto.VehicleCode, dto.LocationId, dto.VehicleType);
+
+            await _repository.AddAsync(vehicle);
+
+            return vehicle.Id;
+        }
     }
 }
