@@ -49,10 +49,10 @@
     <Compile Include="DTOs\CreateVehicleDto.cs" />
     <Compile Include="DTOs\UpdateVehicleStatusDto.cs" />
     <Compile Include="DTOs\VehicleDto.cs" />
+    <Compile Include="Interfaces\IVehicleRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
