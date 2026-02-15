@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5D1A1D2-E1A0-451B-B4DF-805B4364CF40}|..\\VehicleInventory.Application\\VehicleInventory.Application.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5D1A1D2-E1A0-451B-B4DF-805B4364CF40}|..\\VehicleInventory.Application\\VehicleInventory.Application.csproj|d:\\programming distributed applications development\\assingment1\\vehicleinventory.application\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,6 +52,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "..\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:56:20.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IVehicleRepository.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
@@ -61,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UpdateVehicleStatusDto.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusDto.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusDto.cs",
@@ -69,12 +85,11 @@
               "RelativeToolTip": "..\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T01:24:56.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T01:24:56.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VehicleStatus.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
@@ -86,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VehicleDto.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\DTOs\\VehicleDto.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\DTOs\\VehicleDto.cs",
@@ -98,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreateVehicleDto.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\DTOs\\CreateVehicleDto.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\DTOs\\CreateVehicleDto.cs",
@@ -110,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
@@ -122,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DomainException.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
@@ -134,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Infrastructure\\Class1.cs",
@@ -146,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Class1.cs",
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\Class1.cs",
@@ -158,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Domain\\VehicleInventory.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Class1.cs",
