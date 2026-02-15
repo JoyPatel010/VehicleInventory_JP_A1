@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "..\\VehicleInventory.Application\\Services\\VehicleService.cs",
               "ToolTip": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.Application\\Services\\VehicleService.cs",
               "RelativeToolTip": "..\\VehicleInventory.Application\\Services\\VehicleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T03:56:20.12Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "..\\VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T01:28:06.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T01:28:06.102Z"
             },
             {
               "$type": "Document",
