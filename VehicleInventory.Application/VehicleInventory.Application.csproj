@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DTOs\CreateVehicleDto.cs" />
+    <Compile Include="DTOs\VehicleDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -55,6 +56,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VehicleInventory.Domain\VehicleInventory.Domain\VehicleInventory.Domain.csproj">
+      <Project>{5f8dfbee-531f-4c63-bfe4-6f46c7ca9b6d}</Project>
+      <Name>VehicleInventory.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
