@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj": {}
+    "C:\\Users\\patel\\OneDrive\\Desktop\\VehicleInventory_JP_A1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj": {
+    "C:\\Users\\patel\\OneDrive\\Desktop\\VehicleInventory_JP_A1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\patel\\OneDrive\\Desktop\\VehicleInventory_JP_A1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
         "projectName": "VehicleInventory.WebAPI",
-        "projectPath": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
+        "projectPath": "C:\\Users\\patel\\OneDrive\\Desktop\\VehicleInventory_JP_A1\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
         "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming Distributed Applications Development\\Assingment1\\VehicleInventory.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\patel\\OneDrive\\Desktop\\VehicleInventory_JP_A1\\VehicleInventory.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
